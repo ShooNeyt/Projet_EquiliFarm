@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 76374158b4c4e5744b394e9290aae693
+labels:
+- cellshading
+- cell
+- toon
+- toonshader
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: 39413e2567f4b452db0d4a76dbef5419, type: 3}
+  - _ToonShade: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
